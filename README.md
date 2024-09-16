@@ -1,3 +1,3 @@
 # cv
 
-Eugen Soliar CV
+Tymofii Soliar CV
